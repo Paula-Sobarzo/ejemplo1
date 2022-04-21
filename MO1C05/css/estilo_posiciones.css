@@ -1,0 +1,17 @@
+.div{
+    position: fixed;
+    width: 300px;
+    left: 100px;
+    top:50px ;
+    background-color: brown;
+    color: white;
+}
+
+.div2{
+    width: 500px;
+    background-color: blueviolet;
+    color: white;
+}
+
+.div.centrado
+

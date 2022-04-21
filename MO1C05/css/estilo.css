@@ -1,0 +1,25 @@
+{
+    border-width:5px;
+    border-color:blue;
+    border-style:dashed;
+ 
+}
+
+/* selector anidado (sin importar) */
+div h3 {
+    color: orange;
+}
+
+/* selector anidado tres niveles */
+ul li a{
+    color: white;
+    background-color: black;
+    border-color: red;
+    border-top-width: 1px;
+    border-style: solid;
+}
+
+/* definicion general para linea  */
+a{
+    background-color: blue;
+}
